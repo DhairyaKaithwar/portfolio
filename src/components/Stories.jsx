@@ -18,7 +18,7 @@ const Stories = () => {
               <div className="flex-grow overflow-hidden rounded-lg border border-purple-300/20">
                 <img
                   src={story.imgSrc}
-                  className="h-full w-full object-cover p-1"
+                  className="h-full w-full object-cover"
                   alt=""
                 />
                 <div className="p-6">

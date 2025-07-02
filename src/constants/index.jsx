@@ -136,7 +136,7 @@ export const SKILLS = [
     icon: <RiReactjsLine className="text-blue-400" />,
   },
   {
-    name: "Node.js",
+    name: "SQL",
     icon: <RiNodeTree className="text-green-500" />,
   },
   {
@@ -148,7 +148,7 @@ export const SKILLS = [
     icon: <RiCodeSSlashLine className="text-teal-400" />,
   },
   {
-    name: "GraphQL",
+    name: "Node.js",
     icon: <RiGitBranchLine className="text-pink-400" />,
   },
 ];
